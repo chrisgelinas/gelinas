@@ -551,6 +551,7 @@ p::after{
 
         @media screen and (max-width: 750px){
             .maincontainer ul{
+                column-count: 1;
                 list-style: none;
                 font-size: 70%;
                 margin: 0 auto;
