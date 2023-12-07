@@ -542,7 +542,7 @@ p::after{
             white-space: nowrap;
             max-width: 750px;
             margin: 0 auto;
-            font-size: 1.1em;
+            font-size: 1em;
             width: 100%;
             padding: 0px;
             z-index: 1;
@@ -553,7 +553,7 @@ p::after{
             .maincontainer ul{
                 column-count: 1;
                 list-style: none;
-                font-size: 70%;
+                font-size: 60%;
                 margin: 0 auto;
                 text-align: center;
                 width: 100%;
