@@ -1,9 +1,11 @@
+body{
+    background-color: ivory;
+}
+
 body, h1, h2, a{
     margin: 0;
     padding: 0;
    
-    
-    
 }
 p {
     font-family: 'Roboto';
@@ -70,7 +72,7 @@ header{
 header h1{
     color: #b7b7b7;
     border: 8px solid #204829;
-    padding: 6px 12px;
+    padding: 0px;
     display: inline-block;
     border-radius: 22px;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -205,7 +207,7 @@ section.join{
     text-decoration: none;
     padding-left: 0px;
     max-width: 80%;
-    background-color:#92e5a1
+    background-color:ghostwhite;
 }
 
 .maincontainer p{
@@ -218,7 +220,7 @@ section.join{
     text-decoration: none;
     padding-left: 0px;
     max-width: 100%;
-    background-color:#92e5a1;
+    background-color:ghostwhite;
     white-space: nowrap;
     
 }
@@ -339,7 +341,7 @@ section.join{
     text-decoration: none;
     padding-left: 0px;
     max-width: 80%;
-    background-color:#92e5a1 
+    background-color:ghostwhite; 
 }
 
 .projects p{
@@ -362,13 +364,20 @@ section.join{
     font-style: normal;
     text-decoration: none;
     padding-left: 0px;
-    max-width: 100%;
-    background-color:#92e5a1;
+    background-color:ghostwhite;
     white-space: nowrap;
 }
 
+footer{
+    background-color:#4b4b4b;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
 
-    
+
+
 
 
 /*.imagelink a{
@@ -411,12 +420,7 @@ border-radius: 28px;
 border: 4px solid white;
 }
 
-footer{
-    background-color: #204829;
-    color: white;
-    padding: 10px;
-    text-align: center;
-}
+
 
 
 /* psuedoclasses */
@@ -452,7 +456,7 @@ form input:valid{
     font-size: 1.2em;
 }
 section.join p::first-letter{
-    font-size: 1.5em;
+    font-size: 1.1em;
 }
 p::selection{
     background-color: #22b455;
