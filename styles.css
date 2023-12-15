@@ -21,8 +21,7 @@ h1 {
 
 h2 {
     font-family: 'Oswald';
-    font-style: normal;
-    font-weight: 400;
+    
 }
 
 h3 {
@@ -586,7 +585,7 @@ p::after{
                 .projects h2{
                     
                     font-size: 8vw;
-                    
+                   
                    
                   }
                 }
