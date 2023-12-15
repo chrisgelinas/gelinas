@@ -582,17 +582,12 @@ p::after{
               }
             }
 
-            @media screen and (max-width: 500px){
+            @media screen and (max-width: 550px){
                 .projects h2{
-                    font-size: 85%;
-                    position: relative;
-                    display: inline-block;
-                    padding-top: 10px; 
-                    max-width: 750px;
-                    margin: 0 auto;
-                    width: 100%;
-                    padding: 0;
-                    z-index: 1;
+                    
+                    max-width: 90%;
+                    padding: 2px;
+                   
                   }
                 }
 
