@@ -585,8 +585,8 @@ p::after{
             @media screen and (max-width: 550px){
                 .projects h2{
                     
-                    max-width: 90%;
-                    padding: 2px;
+                    font-size: 8vw;
+                    
                    
                   }
                 }
