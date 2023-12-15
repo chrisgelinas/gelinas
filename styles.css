@@ -564,7 +564,14 @@ p::after{
                 
               }
                 
-            
+              @media screen and (max-width: 550px){
+                .maincontainer h2{
+                    
+                    font-size: 8vw;
+                   
+                   
+                  }
+                }
 
    
         @media screen and (max-width: 750px){
