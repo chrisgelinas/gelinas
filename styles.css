@@ -588,14 +588,14 @@ p::after{
               }
             }
 
-          /*  @media screen and (max-width: 550px){
+            @media screen and (max-width: 550px){
                 .projects h2{
                     
                     font-size: 8vw;
                    
                    
                   }
-                }*/
+                }
 
             /*@media screen and (max-width: 900px){
                 .imagelink{
